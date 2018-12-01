@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\LoadCurrent.cs">
+    <Files>
+      <File FileName="Assets\EarthSimplePlanets\Scripts\RevealingLightManipulation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Collectable.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Gamemanager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\Flipping Normal.shader" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\FlippyShader.shader" Line="1" Column="1" />
+      <File FileName="Assets\Script\Startthegame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\LoadCurrent.cs" Line="21" Column="70" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\Capstone project_Nihar Mamidipudi\VR Space Rider POV\Assets\Script\Gamemanager.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

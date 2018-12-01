@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Space Rider POV", "Assembly-CSharp.csproj", "{1610DA95-F948-C65F-B1A5-728BA7113110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Space Rider POV", "Assembly-CSharp-Editor.csproj", "{5A21E782-42EA-8505-A5F3-FF65CE153E66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1610DA95-F948-C65F-B1A5-728BA7113110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1610DA95-F948-C65F-B1A5-728BA7113110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1610DA95-F948-C65F-B1A5-728BA7113110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1610DA95-F948-C65F-B1A5-728BA7113110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A21E782-42EA-8505-A5F3-FF65CE153E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A21E782-42EA-8505-A5F3-FF65CE153E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A21E782-42EA-8505-A5F3-FF65CE153E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A21E782-42EA-8505-A5F3-FF65CE153E66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
